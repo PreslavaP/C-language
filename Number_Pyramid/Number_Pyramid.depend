@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1740595336 source:c:\users\admin\desktop\c-language\number_pyramid\main.c
+	<stdio.h>
+	<stdlib.h>
+
