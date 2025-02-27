@@ -4,7 +4,6 @@
 
 int main() {
     int N, K;
-    char input[20];
 
     printf("Enter N: ");
     scanf("%d", &N);
@@ -13,15 +12,10 @@ int main() {
 
     int count = 0;
 
-    for (int i = 0; i < N; ++i) {
+    for (int i = 1; i <= N; i++) {
+        int num;
         printf("Enter number %d (or 'Stop' to finish): ", i + 1);
-        scanf("%s", input);
-
-        if (strcmp(input, "Stop") == 0) {
-            break;
-        }
-
-        int num = atoi(input);
+        scanf("%d", &num);
 
         if (num > K && num % 3 == 0) {
             count++;
