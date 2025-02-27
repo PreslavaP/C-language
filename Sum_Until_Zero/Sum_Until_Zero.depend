@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1740674974 source:c:\users\admin\desktop\c-language\sum_until_zero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
