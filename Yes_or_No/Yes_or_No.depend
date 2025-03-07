@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741330500 source:c:\users\admin\desktop\c-language\yes_or_no\main.c
+	<stdio.h>
+	<stdlib.h>
+

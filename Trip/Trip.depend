@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741333761 source:c:\users\admin\desktop\c-language\trip\main.c
+	<stdio.h>
+	<stdlib.h>
+
