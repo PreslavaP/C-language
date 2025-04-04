@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1743745919 source:c:\users\admin\desktop\c-language\exs_matrix_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
