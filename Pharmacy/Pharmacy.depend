@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1746611446 source:c:\users\admin\desktop\c-language\pharmacy\main.c
+	<stdio.h>
+	<stdlib.h>
+
